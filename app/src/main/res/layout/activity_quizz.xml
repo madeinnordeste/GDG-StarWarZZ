@@ -10,61 +10,104 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin">
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:weightSum="1">
 
-
-
-    <TextView
-        android:layout_width="match_parent"
+    <!-- Question and buttons //-->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Loren ipsun dolor assimet loren ipsun dolor assimet"
-        style="@style/starwarzz"
-        android:id="@+id/textViewQuestion"
-        android:layout_centerVertical="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:paddingBottom="30dp"/>
+        android:layout_weight="0.7">
 
-    <Button
-        style="@style/starwarzzButton"
-        android:text="Loren ipsun dolor assimet"
-        android:id="@+id/buttonAnswerOne"
-        android:tag="0"
-        android:onClick="submitAnswer"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="..."
+            style="@style/starwarzz"
+            android:id="@+id/textViewQuestion"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:paddingBottom="30dp"
+            android:textAlignment="center" />
 
-    <Button
-        style="@style/starwarzzButton"
-        android:text="Loren ipsun dolor assimet"
-        android:id="@+id/buttonAnswerTwo"
-        android:tag="0"
-        android:onClick="submitAnswer"/>
+        <Button
+            style="@style/starwarzzButton"
+            android:text="..."
+            android:id="@+id/buttonAnswerOne"
+            android:onClick="submitAnswer"
+            android:tag="0"/>
 
-    <Button
-        style="@style/starwarzzButton"
-        android:text="Loren ipsun dolor assimet"
-        android:id="@+id/buttonAnswerThree"
-        android:tag="1"
-        android:onClick="submitAnswer"/>
+        <Button
+            style="@style/starwarzzButton"
+            android:text="..."
+            android:id="@+id/buttonAnswerTwo"
+            android:onClick="submitAnswer"
+            android:tag="0"/>
 
-    <TextView
-        android:layout_width="match_parent"
+        <Button
+            style="@style/starwarzzButton"
+            android:text="..."
+            android:id="@+id/buttonAnswerThree"
+            android:onClick="submitAnswer"
+            android:tag="0"/>
+
+    </LinearLayout>
+    <!-- /Question and buttons //-->
+
+    <!-- Progress and Force //-->
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Progresso"
-        style="@style/starwarzz"
-        android:id="@+id/textViewProgress"
-        android:layout_centerVertical="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:textAlignment="center"
-        android:paddingBottom="5dp" />
+        android:gravity="bottom"
+        android:layout_weight="0.3">
 
-    <ProgressBar
-        style="@android:style/Widget.ProgressBar.Horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/progressBarForce"
-        android:indeterminate="false"
-        android:backgroundTintMode="screen" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Força"
+            style="@style/starwarzz"
+            android:id="@+id/textViewForce"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textAlignment="center"
+            android:paddingBottom="5dp" />
+
+        <ProgressBar
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/progressBarForce"
+            android:indeterminate="false"
+            android:backgroundTintMode="screen" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Progresso"
+            style="@style/starwarzz"
+            android:id="@+id/textViewProgress"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textAlignment="center"
+            android:paddingBottom="5dp" />
+
+        <ProgressBar
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressBarProgress"
+            android:indeterminate="false"
+            android:backgroundTintMode="screen" />
+
+    </LinearLayout>
+    <!-- /Progress and Froce //-->
+
 
 
 </LinearLayout>
