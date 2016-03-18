@@ -1,35 +1,35 @@
 {
   "list": [
     {
-      "title": "1: Pergunta 1loren ipsun dolor assimet",
+      "title": "Quantos Oscar 'Uma Nova Esperança' venceu ?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 1",
+          "title": "Nenhum",
+          "points": 0
+        },
+        {
+          "title": "Um",
+          "points": 0
+        },
+        {
+          "title": "Seis",
           "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 1",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 1",
-          "points": 0
         }
       ]
     },
     {
-      "title": "2: Pergunta 2loren ipsun dolor assimet",
+      "title": "Em quem as feições de Yoda foram inspiradas ?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 2",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 2",
+          "title": "Bruce Lee",
           "points": 0
         },
         {
-          "title": "Alternativa errada 2",
+          "title": "Albert Einstein",
+          "points": 1
+        },
+        {
+          "title": "Ney Armstrong",
           "points": 0
         }
       ]
@@ -52,18 +52,18 @@
       ]
     },
     {
-      "title": "4: Pergunta 4loren ipsun dolor assimet",
+      "title": "Qual é o filme de maior bilheteria da franquia?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 4",
+          "title": "Uma Nova Esperança",
           "points": 1
         },
         {
-          "title": "Alternativa incorreta 4",
+          "title": "Ataque dos Clones",
           "points": 0
         },
         {
-          "title": "Alternativa errada 4",
+          "title": "O Retorno de Jedi",
           "points": 0
         }
       ]
@@ -86,240 +86,155 @@
       ]
     },
     {
-      "title": "6: Pergunta 6loren ipsun dolor assimet",
+      "title": "Por quantos fantoches o alienígena Jabba, o Hutt, era controlado ?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 6",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 6",
+          "title": "1 fantoche",
           "points": 0
         },
         {
-          "title": "Alternativa errada 6",
+          "title": "3 fantoches",
+          "points": 0
+        },
+        {
+          "title": "10 fantoches",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "title": "Em quantos episódios o personagem Obi-Wan também aparece ?",
+      "alternatives": [
+        {
+          "title": "dois",
+          "points": 0
+        },
+        {
+          "title": "Três",
+          "points": 0
+        },
+        {
+          "title": "Todos",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "title": "Em qual dos episódios é possível escutar a respiração de Darth Vader após os créditos?",
+      "alternatives": [
+        {
+          "title": "O Retorno de Jedi",
+          "points": 0
+        },
+        {
+          "title": "A Ameaça Fantasma",
+          "points": 1
+        },
+        {
+          "title": "O Ataque dos clones",
           "points": 0
         }
       ]
     },
     {
-      "title": "7: Pergunta 7loren ipsun dolor assimet",
+      "title": "Quanto os filmes arrecadaram?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 7",
+          "title": "Aproximadament U$4 bilhões",
           "points": 1
         },
         {
-          "title": "Alternativa incorreta 7",
+          "title": "Aproximadament U$8 bilhões",
           "points": 0
         },
         {
-          "title": "Alternativa errada 7",
+          "title": "Aproximadament U$15 bilhões",
           "points": 0
         }
       ]
     },
     {
-      "title": "8: Pergunta 8loren ipsun dolor assimet",
+      "title": "Qual o nome original do Luke Skywalker ?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 8",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 8",
+          "title": "Nuke Skywalker",
           "points": 0
         },
         {
-          "title": "Alternativa errada 8",
+          "title": "Luke Starkiller",
+          "points": 1
+        },
+        {
+          "title": "Luke Startek",
           "points": 0
         }
       ]
     },
     {
-      "title": "9: Pergunta 9loren ipsun dolor assimet",
+      "title": "Qual personagem tem um sabre de luz roxo?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 9",
+          "title": "MACE WINDU",
           "points": 1
         },
         {
-          "title": "Alternativa incorreta 9",
+          "title": "DARTH VADER",
           "points": 0
         },
         {
-          "title": "Alternativa errada 9",
+          "title": "KYLO REN",
           "points": 0
         }
       ]
     },
     {
-      "title": "10: Pergunta 10loren ipsun dolor assimet",
+      "title": "Qual a altura aproximada do Mestre Yoda?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 10",
+          "title": "Aproximadamente 66 cm",
           "points": 1
         },
         {
-          "title": "Alternativa incorreta 10",
+          "title": "Aproximadamente 86 cm",
           "points": 0
         },
         {
-          "title": "Alternativa errada 10",
+          "title": "Aproximadamente 1,1 metro",
           "points": 0
         }
       ]
     },
     {
-      "title": "11: Pergunta 11loren ipsun dolor assimet",
+      "title": "Por quantos atores Anakin Skywalker/Darth Vader é interpretado durante a saga?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 11",
+          "title": "2 diferentes atores",
           "points": 1
         },
         {
-          "title": "Alternativa incorreta 11",
+          "title": "3 diferentes atores",
           "points": 0
         },
         {
-          "title": "Alternativa errada 11",
-          "points": 0
+          "title": "6 diferentes atores",
+          "points": 1
         }
       ]
     },
     {
-      "title": "12: Pergunta 12loren ipsun dolor assimet",
+      "title": "Galáctico Básico é a lingua falada por que personagem?",
       "alternatives": [
         {
-          "title": "Alternativa Correta 12",
+          "title": "Jabba",
+          "points": 0
+        },
+        {
+          "title": "Chewbacca",
+          "points": 0
+        },
+        {
+          "title": "Yoda",
           "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 12",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 12",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "13: Pergunta 13loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 13",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 13",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 13",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "14: Pergunta 14loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 14",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 14",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 14",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "15: Pergunta 15loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 15",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 15",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 15",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "16: Pergunta 16loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 16",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 16",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 16",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "17: Pergunta 17loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 17",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 17",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 17",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "18: Pergunta 18loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 18",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 18",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 18",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "19: Pergunta 19loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 19",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 19",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 19",
-          "points": 0
         }
       ]
     }
