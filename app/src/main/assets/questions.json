@@ -35,23 +35,6 @@
       ]
     },
     {
-      "title": "3: Pergunta 3loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 3",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 3",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 3",
-          "points": 0
-        }
-      ]
-    },
-    {
       "title": "Qual é o filme de maior bilheteria da franquia?",
       "alternatives": [
         {
@@ -64,23 +47,6 @@
         },
         {
           "title": "O Retorno de Jedi",
-          "points": 0
-        }
-      ]
-    },
-    {
-      "title": "5: Pergunta 5loren ipsun dolor assimet",
-      "alternatives": [
-        {
-          "title": "Alternativa Correta 5",
-          "points": 1
-        },
-        {
-          "title": "Alternativa incorreta 5",
-          "points": 0
-        },
-        {
-          "title": "Alternativa errada 5",
           "points": 0
         }
       ]
