@@ -49,7 +49,7 @@
         <Button
             style="@style/starwarzzButton"
             android:text="..."
-            android:id="@+id/buttonAnswerThree"
+            android:id="@+id/buttonAnswerThreez"
             android:onClick="submitAnswer"
             android:tag="0"/>
 
